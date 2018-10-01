@@ -1,0 +1,951 @@
+Manifest-Version: 1.0
+Built-By: Generated-by-ADT
+Created-By: Android Gradle 3.0.0
+
+Name: assets/www/application/app/images/cryptologo/kmd.svg
+SHA1-Digest: CTDEGfSKaK5FmUDdSTq7bibbafA=
+
+Name: assets/www/application/packages/minimongo.js
+SHA1-Digest: hqL2aB7ggmELLXcbUChbMdWWr3c=
+
+Name: assets/www/application/packages/meteor-base.js
+SHA1-Digest: ll5y6+b5hUq6a82kD3B8gwkeWSk=
+
+Name: assets/www/application/app/images/cryptologo/supernet.png
+SHA1-Digest: 1QWRmolTyuXJSDoCkWd98t3cmNc=
+
+Name: assets/www/application/packages/diff-sequence.js
+SHA1-Digest: oLrOkLUl3kOqT4MmPFCroYr6dXY=
+
+Name: assets/www/application/packages/templating-compiler.js
+SHA1-Digest: GRBQTo+V21iezW66du1mEmlBY7c=
+
+Name: assets/www/application/app/images/cryptologo/btx.png
+SHA1-Digest: jr85M/hNn+7bF8ZvYTd0mZs8Vdk=
+
+Name: assets/www/application/packages/ddp-client.js
+SHA1-Digest: MY6D6JeRo7mdSUhQjijKQykQjJg=
+
+Name: assets/www/application/app/images/template/transactions/copy_ico
+ n.svg
+SHA1-Digest: ZhOvxf4SproJXUtHmiD3s9BJ+BU=
+
+Name: assets/www/application/packages/minimongo.js.map
+SHA1-Digest: YeaWymA2D2i1DE6+Ga+c56rbdkg=
+
+Name: assets/www/application/packages/autoupdate.js
+SHA1-Digest: FJ+ooKgzYQBo4LEPAWlZsnFyklg=
+
+Name: assets/www/application/app/images/cryptologo/btcz.png
+SHA1-Digest: oTbmVzSurLxyu3P+1wYEUV8oW7A=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/Camera.js
+SHA1-Digest: SIYzAGOWUrafT4SXCVCSdpiOQaw=
+
+Name: assets/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.
+ js
+SHA1-Digest: J+j0Bp70irA8uX+Bf6o06IwRuDI=
+
+Name: assets/www/application/packages/meteor.js
+SHA1-Digest: JvjXJASbSfjaO6cOJw0gI0NGj4U=
+
+Name: assets/www/application/packages/fortawesome_fontawesome/upstream
+ /fonts/fontawesome-webfont.svg
+SHA1-Digest: mKiqXPfWLC7/Xwft6NhEuHTvBu0=
+
+Name: assets/www/application/packages/webapp.js
+SHA1-Digest: Vevf5wevNbjzcy6OvCTvPDut9aY=
+
+Name: res/drawable-xxhdpi-v4/ic_action_remove.png
+SHA1-Digest: mbXb9gs6VHF6bQjlXck58VjsMvg=
+
+Name: assets/www/application/app/images/template/login/trends-wifi.png
+SHA1-Digest: 63FLeEIkrB36rAz8y7j9ArKpO1Q=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: f7p1rHw6kBqunadJYz5vUi7ZElM=
+
+Name: assets/www/application/app/fonts/Montserrat-Light.ttf
+SHA1-Digest: Vb0wokymGtQT+5oVoDhjkTMk0Q4=
+
+Name: assets/www/application/app/images/template/about/unlicense_icon.
+ svg
+SHA1-Digest: hdJ2fxAkV5m2mW4ItAr27K0fTjk=
+
+Name: assets/www/application/app/images/cryptologo/ltc.1.png
+SHA1-Digest: F0wlXY/UhvHjgFormAVKINl+QDA=
+
+Name: assets/www/application/app/images/cryptologo/sng.png
+SHA1-Digest: s6oi5KZfzPFhpil3Ua4Me0GNx6s=
+
+Name: assets/www/application/packages/mdg_camera.js
+SHA1-Digest: zAFfnIE4sY26Bdarz2dL1+GhIDo=
+
+Name: assets/www/application/app/images/template/menu/sidemenu-rectang
+ le-9-copy-2.png
+SHA1-Digest: I0KUV3pQ0tIwh3D2jUxAR/s9x1U=
+
+Name: assets/www/application/packages/ordered-dict.js.map
+SHA1-Digest: 9Za8sbHIlb9jWoIPG7QDXwRM8Lw=
+
+Name: assets/www/application/packages/socket-stream-client.js
+SHA1-Digest: PdszVzI4foM0q+nHbNe74/N2Nis=
+
+Name: res/drawable-xxhdpi-v4/ic_action_next_item.png
+SHA1-Digest: s3TTep2lCxfMciaMNn/wcGBlr18=
+
+Name: assets/www/application/packages/diff-sequence.js.map
+SHA1-Digest: uB7IvsfqLD4o27TbOzwrgRha5dA=
+
+Name: assets/www/application/app/images/template/home/home-shape 3.png
+SHA1-Digest: 4bsI6WbGRMi7WcoUM97ap8kBsCo=
+
+Name: assets/www/application/packages/reload.js.map
+SHA1-Digest: Qy1jIUmcyKB6kd6ugl5Qzqy8voQ=
+
+Name: assets/www/application/app/images/template/transactions/progress
+ 2_icon.svg
+SHA1-Digest: 3naR4apSE6oNyipvTfMmxcJDa/o=
+
+Name: assets/www/application/app/images/cryptologo/mesh.png
+SHA1-Digest: jrhnD7Nysa3nsqNGkR/VBMtbe6U=
+
+Name: assets/www/application/app/images/template/menu/sidemenu-rectang
+ le-3.png
+SHA1-Digest: 8+sasOXpdT8hVgOp8JcOOYlKVaE=
+
+Name: assets/www/application/app/images/cryptologo/sib.png
+SHA1-Digest: erGkfIYuIOIgQEfk+62fDbnmaKk=
+
+Name: resources.arsc
+SHA1-Digest: 9H5Zx926Mx1Dfqk9VPLEkhOJIPk=
+
+Name: assets/www/application/app/images/pungo_logo.svg
+SHA1-Digest: 4EmG4utFjEv1qgWn+sDdgNF3tKA=
+
+Name: res/drawable-mdpi-v4/ic_action_previous_item.png
+SHA1-Digest: AxBO2CVbVxCkenzkHwRUHgxe1vU=
+
+Name: assets/www/application/app/fonts/Montserrat-ExtraLight.otf
+SHA1-Digest: Pj6zRHP/l4roEzms2feyjQNp3ro=
+
+Name: assets/www/application/packages/underscore.js
+SHA1-Digest: bVW7ey7otDbAWF04Fpk84wlmZfk=
+
+Name: assets/www/application/packages/modern-browsers.js
+SHA1-Digest: D7AlsDP/szEbgczU62KWh7LYAY0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: N3UZnwtA8Gv6km0QxIxC2qm5nE4=
+
+Name: assets/www/application/app/images/template/login/trends-border.p
+ ng
+SHA1-Digest: wexhACMXEgJB5uU5gEbAqYZrNf4=
+
+Name: assets/www/application/packages/deanius_promise.js.map
+SHA1-Digest: 6twmKmb5d6PDsM+DuxxdPMxsCbk=
+
+Name: assets/www/application/app/images/cryptologo/jumblr.png
+SHA1-Digest: CWmrC1rXqN+nJTnnmoq2LB0Oe9A=
+
+Name: assets/www/application/app/images/template/home/home-path-5-copy
+ -2.png
+SHA1-Digest: sJgHH3RGr3JQd7s6UZUpGbivuko=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: FVwW8q5pXNyqdiSUoAgfev5NTHs=
+
+Name: res/xml/config.xml
+SHA1-Digest: BajFIKU5WyhjeeUUbaJuYCoyXt4=
+
+Name: assets/www/application/app/images/cryptologo/btc.svg
+SHA1-Digest: aSWaeNcmb8WQBO0NmHTXRhGY4X8=
+
+Name: assets/www/application/packages/observe-sequence.js
+SHA1-Digest: sJXO6KGl8zuTkbH73d7q8v5XdDU=
+
+Name: assets/www/application/app/images/template/menu/pungo_logo_orang
+ e.svg
+SHA1-Digest: KHoQ9v62HfE7Io2OBIhbK0KC2Wc=
+
+Name: assets/www/application/packages/ddp-server.js
+SHA1-Digest: GFPbiU1ll/kK0O0ej59eFhwKQCE=
+
+Name: assets/www/application/packages/htmljs.js
+SHA1-Digest: e+bCOu/3IYc0i5SzG6PgoxoRSiE=
+
+Name: assets/www/application/app/images/cryptologo/fjc.png
+SHA1-Digest: 6Ny25pYbDYQdxQx5qbD25HvdkWg=
+
+Name: assets/www/application/app/images/cryptologo/chips.png
+SHA1-Digest: K74wlTYa4SXNg8/+2iydEhCabg8=
+
+Name: assets/www/application/app/images/template/menu/lock_icon.svg
+SHA1-Digest: sVpMz8fyLZsLyu3dzn4OzWE7TkM=
+
+Name: assets/www/application/app/images/template/menu/sidemenu-rectang
+ le-9-copy.png
+SHA1-Digest: MwQ7eSP4tJI7h4H6Q6WxZ/eXqJo=
+
+Name: assets/cdvasset.manifest
+SHA1-Digest: mCtNcogvc5gxHHSFRyU4rQmeNFk=
+
+Name: assets/www/application/app/images/cryptologo/pgt_icon.svg
+SHA1-Digest: mROgSDp2mri6qd9It3KYDAHmw+0=
+
+Name: assets/www/application/app/images/template/home/home-shape 7.png
+SHA1-Digest: AXTq/ZDA7/+KlTNnD2X9CrbleDc=
+
+Name: assets/www/application/app/images/template/home/home-rectangle-5
+ .png
+SHA1-Digest: YFFWIhu4NwrrR0syn+CSqdpBvTQ=
+
+Name: assets/www/application/app/images/template/menu/sidemenu-combine
+ d-shape 1.png
+SHA1-Digest: dfEjuMNH5fnVXiLrowDV2luMN6Q=
+
+Name: res/drawable-xhdpi-v4/ic_action_remove.png
+SHA1-Digest: flB6g2c2Kbrk4C0Ss81FO6FLYCI=
+
+Name: assets/www/application/packages/ddp-client.js.map
+SHA1-Digest: z0VJmQMJSRDmJK57ZE4K3Qrun3A=
+
+Name: assets/www/application/packages/allow-deny.js.map
+SHA1-Digest: 489lfK3wGHTcMM5hK1dWPvNBYw0=
+
+Name: assets/www/application/packages/ejson.js.map
+SHA1-Digest: p8IQptW68Kxv5E8TsEUZVIJj7VA=
+
+Name: assets/www/application/app/images/template/transactions/gradient
+ .png
+SHA1-Digest: YFFWIhu4NwrrR0syn+CSqdpBvTQ=
+
+Name: assets/www/application/app/images/template/menu/orangemenu_icon.
+ svg
+SHA1-Digest: X9AxG0162c6evAjeYRDHPYLEwUI=
+
+Name: res/drawable-hdpi-v4/ic_action_next_item.png
+SHA1-Digest: 9qPtQsjUf+dRaMfxwxp9/wpc8ZU=
+
+Name: assets/www/application/packages/mobile-experience.js
+SHA1-Digest: FxLHd0XJJVg1euNNZFDlTSYZHkc=
+
+Name: assets/www/application/packages/babel-compiler.js
+SHA1-Digest: 5PN5M86eR7/0wGN9K3QIRkb8h8g=
+
+Name: assets/www/application/app/images/icon-copy.svg
+SHA1-Digest: l/B8mtDxe+FMsaL5iOWjQuLU/cE=
+
+Name: assets/www/application/packages/base64.js
+SHA1-Digest: YxT3KVn+Jhcp8j98G141Ho1CMA4=
+
+Name: assets/www/application/packages/templating.js
+SHA1-Digest: Nj2Hxs4AbvCRUX64nTFEfF3cnl8=
+
+Name: assets/www/application/app/images/cryptologo/zcl.png
+SHA1-Digest: o7kF9BsNS1fV6bCjKpJ11lniMB8=
+
+Name: assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js
+SHA1-Digest: hDT++3ZaOTp3t16AAFAibxtovj0=
+
+Name: assets/www/application/packages/dynamic-import.js
+SHA1-Digest: GpYfrJVPIJfQUbvGsrPMamCthYw=
+
+Name: assets/www/cordova.js
+SHA1-Digest: F3vBflWqiHgS2BD3e2M6eOSGK04=
+
+Name: assets/www/application/app/images/cryptologo/pgt.svg
+SHA1-Digest: mROgSDp2mri6qd9It3KYDAHmw+0=
+
+Name: assets/www/application/packages/check.js.map
+SHA1-Digest: tEQVfVCH+PmgOWmmFNdeUYkkGZc=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/CameraPopoverHandle
+ .js
+SHA1-Digest: tf0kosXo/BESOF6h82K8zvFAjGk=
+
+Name: assets/www/application/app/images/cryptologo/mgw.png
+SHA1-Digest: mhRbSIco+NidEonmzND4ptj0fXw=
+
+Name: assets/www/application/packages/retry.js.map
+SHA1-Digest: JVZ2lY+NHRad2jCj0Q4vDwiW+JI=
+
+Name: assets/www/application/packages/mongo-id.js.map
+SHA1-Digest: UexDmnL+xAPdHQT2GTrtjNHiNTM=
+
+Name: assets/www/application/packages/reactive-var.js
+SHA1-Digest: 5gyEFjNwrcH1AEozKtafW9nbCnM=
+
+Name: assets/www/application/app/images/template/transactions/sync_ico
+ n.svg
+SHA1-Digest: t4/4gzpLPeVdvNETNAKutOtJlEU=
+
+Name: assets/www/application/app/images/template/home/home-shape 6.png
+SHA1-Digest: yRCqeXJE5/gELtZnsTjXBVzJIiE=
+
+Name: assets/www/application/packages/retry.js
+SHA1-Digest: wpXQaV/+iinbWrMlBdrU5wbrSLI=
+
+Name: assets/www/application/app/images/cryptologo/glxt.png
+SHA1-Digest: pWKsDm6GAjvbLTNmC9CqvYMGyr8=
+
+Name: assets/www/application/app/images/pungo.png
+SHA1-Digest: vgkwhyM/f/BWKl3hxB236//5Hj8=
+
+Name: assets/www/application/app/images/template/home/sidemenu-combine
+ d-shape 1.png
+SHA1-Digest: dfEjuMNH5fnVXiLrowDV2luMN6Q=
+
+Name: assets/www/application/app/images/template/home/trends-rectangle
+ -7.png
+SHA1-Digest: ffyVjnU5LyCtT+N6Ptr+YXj2tg0=
+
+Name: assets/www/application/packages/ddp-common.js.map
+SHA1-Digest: XQfnKkBMdj36u4/OA8nnA3Jh6ZM=
+
+Name: assets/www/application/packages/id-map.js.map
+SHA1-Digest: povj3U0BkvM0OIftgpyvGTKoWvk=
+
+Name: assets/www/application/packages/less.js
+SHA1-Digest: +L2T6Jhaa6YzaISVWd27knFmMoQ=
+
+Name: assets/www/application/packages/ui.js
+SHA1-Digest: yRMnQGvmQ+EYI7YDtkaJVU8SPfQ=
+
+Name: assets/www/application/app/images/template/transactions/receive_
+ icon.svg
+SHA1-Digest: pYJyHPf8qe0s2E2HjYq6h+q6dto=
+
+Name: assets/www/application/packages/fortawesome_fontawesome/upstream
+ /fonts/fontawesome-webfont.ttf
+SHA1-Digest: E7HqtlqYPHpzvHmXxHnWaUP3xss=
+
+Name: assets/www/application/app/images/template/home/managecoins_icon
+ .svg
+SHA1-Digest: M4pnwkK71AxIV56s3qvYpZnUtys=
+
+Name: assets/www/application/packages/modules.js
+SHA1-Digest: GMdHBcY3q5k8qiKIYVR0X3nKQmw=
+
+Name: assets/www/application/packages/callback-hook.js.map
+SHA1-Digest: 2uUMYvNqMOCPMkWhfeFFGXXK4Zw=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: WY63KRIwUfBJT7ADJajHaAGlUMA=
+
+Name: assets/www/application/app/images/cryptologo/via.png
+SHA1-Digest: e4sCT4T0N92Aqa57eKMVd4Nhkq4=
+
+Name: assets/www/application/app/images/cryptologo/kv.png
+SHA1-Digest: X2ZS84Qm8x2pdwlQyejt49GY1Hs=
+
+Name: assets/www/application/app/images/template/home/home-combined-sh
+ ape 2.png
+SHA1-Digest: gFgskKV9miXD/83A5M8GixjbQLQ=
+
+Name: assets/www/application/packages/geojson-utils.js
+SHA1-Digest: uewRAUr4OTnxqo6fABr9wWxRiUU=
+
+Name: assets/www/application/app/images/template/transactions/trends-r
+ ectangle-7.png
+SHA1-Digest: ffyVjnU5LyCtT+N6Ptr+YXj2tg0=
+
+Name: assets/www/application/packages/ecmascript-runtime-client.js
+SHA1-Digest: ujHBFmgbgDpdUPFrYLslrRXQQoU=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: n2E0W8B/grOxM2ORx/haAYOWIcA=
+
+Name: assets/www/application/packages/blaze-html-templates.js
+SHA1-Digest: Qv/SAIlA9wCeneGxYda/tMfjMFA=
+
+Name: assets/www/application/app/global-imports.js
+SHA1-Digest: C7j3HPmPj2ijeWNORkTMUs07QFg=
+
+Name: assets/www/application/app/images/cryptologo/btc_icon.svg
+SHA1-Digest: aSWaeNcmb8WQBO0NmHTXRhGY4X8=
+
+Name: assets/www/application/packages/babel-runtime.js
+SHA1-Digest: uiYkYjg8AuOmVo0eoOVqOD1ed84=
+
+Name: assets/www/application/app/images/pungo_logo_splash.svg
+SHA1-Digest: TYmK3OGaAmjC1UZzyI0pjABC1cM=
+
+Name: assets/www/application/packages/cosmos_browserify.js
+SHA1-Digest: bjE2Rqs1jFGq9u5IqxY/TRmk18E=
+
+Name: assets/www/application/app/images/pungo_logo_orange.svg
+SHA1-Digest: KHoQ9v62HfE7Io2OBIhbK0KC2Wc=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/CameraConstants.js
+SHA1-Digest: z6XuqatNGGOOieiBDp4Ow3ag+Lg=
+
+Name: assets/www/application/app/images/template/transactions/rightarr
+ ow_icon.svg
+SHA1-Digest: ANqQvw48r7j0UKD1tgxSnwnok9s=
+
+Name: assets/www/application/app/images/cryptologo/hush.png
+SHA1-Digest: WNQ/plIRcagcvSPSRCAh+1OHfwE=
+
+Name: assets/www/application/app/images/template/about/powered_by_logo
+ .svg
+SHA1-Digest: wpx2ZOabQCL3Thhnpy8dZk1aKfw=
+
+Name: res/drawable-mdpi-v4/ic_action_remove.png
+SHA1-Digest: dmf1J/+aHziioYXNfW8gQQn+9wc=
+
+Name: assets/www/application/app/images/cryptologo/oot.png
+SHA1-Digest: 2L5t97dgF544++OcfPxI7rA5qfI=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: 8i0nEE6i0lll1Ph7RPqMlWwBgSs=
+
+Name: assets/www/application/packages/hot-code-push.js
+SHA1-Digest: 5Y8zLa1tTOJdaiX+N93myTVxcbg=
+
+Name: assets/www/application/app/images/template/home/home-shape 1.png
+SHA1-Digest: oLcDST6B+gxDVwNl+Z0lxmzrOjg=
+
+Name: assets/www/application/packages/spacebars.js
+SHA1-Digest: cy/URpTjAjVPhzoc++i/U+2g5nU=
+
+Name: assets/www/application/app/images/cryptologo/zec.png
+SHA1-Digest: lZ9n5T5sFnQ1YviriTQBAhgjjmA=
+
+Name: assets/www/application/app/images/template/home/home-rectangle-5
+ -copy.png
+SHA1-Digest: 5X02ZaTmVtLMbdJhCUYAA5KUJ54=
+
+Name: assets/www/application/app/images/template/transactions/send_ico
+ n.svg
+SHA1-Digest: wMox2UlpvgfU1kYWOOi6EhYWsvo=
+
+Name: res/mipmap-mdpi-v4/icon.png
+SHA1-Digest: eQpBe5wXVngI1WIkPyi+1USkW7Y=
+
+Name: assets/www/application/app/images/cryptologo/dash.png
+SHA1-Digest: BZ9qeaw9GJ7XavvobaTrcBQer3s=
+
+Name: assets/www/application/app/images/template/home/sidemenu-oval.pn
+ g
+SHA1-Digest: ZjKsNAvAapy0bFBXJiwvU1zjmyU=
+
+Name: assets/www/application/packages/id-map.js
+SHA1-Digest: XSniqMn50OAJ6LKzByxAuO6J7ZY=
+
+Name: assets/www/application/948b4ec236d1fd87cf97f0499aa41afe3c9e257b.
+ css
+SHA1-Digest: NCqvFhWe1aFgZLf6/93gamooXUk=
+
+Name: assets/www/application/packages/fourseven_scss.js
+SHA1-Digest: +dxaSap6HPMKEvmr+NYHYMu9y5g=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: 8i0nEE6i0lll1Ph7RPqMlWwBgSs=
+
+Name: assets/www/application/packages/ordered-dict.js
+SHA1-Digest: ANdY6qLGOyV4b8tIRlbcErSYPOI=
+
+Name: assets/www/application/app/images/cryptologo/wlc.png
+SHA1-Digest: OUdw/DYpneT+NkKVc+vEyKgaMB8=
+
+Name: assets/www/application/app/images/cryptologo/bots.png
+SHA1-Digest: 7W4XHA7MydyM3nDnUW9V6AdvoKA=
+
+Name: assets/www/application/app/images/cryptologo/ftc.png
+SHA1-Digest: 3OXYisIipgeYEDKnwVH4LXuEDfo=
+
+Name: assets/www/application/packages/insecure.js
+SHA1-Digest: Xkv2fAPyquyHsVPW5K8zjM1/MEM=
+
+Name: assets/www/application/app/images/cryptologo/bntn.png
+SHA1-Digest: XnXdSXm68+/srfyGzGco0wiwduo=
+
+Name: assets/www/application/app/images/cryptologo/beer.png
+SHA1-Digest: VYE5Td4zfzjyyTDkUqjTY+m3fgQ=
+
+Name: assets/www/application/app/images/cryptologo/btch.png
+SHA1-Digest: Csz0yMXtjlx3edsruH0vIPOcILE=
+
+Name: assets/www/application/packages/modules-runtime.js
+SHA1-Digest: cGlt7jLzJ63bLGJJM1kIoE6vgcM=
+
+Name: assets/www/application/app/images/cryptologo/crw.png
+SHA1-Digest: 9iXmQ7hG0JVIaiLEtrfXCjjAfaU=
+
+Name: assets/www/application/app/images/cryptologo/kmd.png
+SHA1-Digest: BdBS62i0RnfPleocF0m/s5nRZZw=
+
+Name: assets/www/application/packages/reload.js
+SHA1-Digest: jRgQNBbHhEzIXA5CNrMgmzlp66M=
+
+Name: assets/www/application/app/images/template/home/home-oval-4 1.pn
+ g
+SHA1-Digest: QqreuroViYXNjylJshn/V+WvRbE=
+
+Name: assets/www/application/packages/autopublish.js
+SHA1-Digest: MTw2qtTnh8xAiUAWmwGmaKommhE=
+
+Name: assets/www/application/packages/ejson.js
+SHA1-Digest: aV/iH3baiV6jar8zBXooYAbTy9o=
+
+Name: assets/www/application/packages/check.js
+SHA1-Digest: 6tAHcmLTYynT7/eMNOTqV6lSRCA=
+
+Name: assets/www/application/app/images/cryptologo/zilla.png
+SHA1-Digest: aQkdqtkYTJEGhF26853Dq+I7odo=
+
+Name: assets/www/application/app/images/cryptologo/fair.png
+SHA1-Digest: vLbjt6fpCa6NO+FRIT4CQLdvs5k=
+
+Name: assets/www/application/app/images/template/home/home-shape 5.png
+SHA1-Digest: B0EDN+sEf/J3rkUk+iqwaW8U0F8=
+
+Name: assets/www/application/app/images/cryptologo/ninja.png
+SHA1-Digest: Q4ZNFpqmHzgYO5hAOWrIbcE8plc=
+
+Name: assets/www/application/packages/base64.js.map
+SHA1-Digest: k7ucQ5cQPRXd/jBD9H4+PZA+OJQ=
+
+Name: assets/www/application/app/images/template/login/trends-mobile-s
+ ignal.png
+SHA1-Digest: HWDhZv4D2Fd6bgFWSrgekjEK3iQ=
+
+Name: assets/www/application/packages/reactive-dict.js
+SHA1-Digest: q7UCe3hQmx9tO4K5gp8fWBymtlA=
+
+Name: assets/www/application/packages/mobile-status-bar.js
+SHA1-Digest: S+/gg2ekL3ETMBOkqDlrD+fhhrg=
+
+Name: assets/www/application/packages/mongo.js
+SHA1-Digest: chHU/IF7cbLHHT8+0t0cRrWEzmw=
+
+Name: assets/www/application/app/images/cryptologo/ltc.png
+SHA1-Digest: F0wlXY/UhvHjgFormAVKINl+QDA=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/CameraPopoverOption
+ s.js
+SHA1-Digest: 8aByrw3Dl008NLTxVyD3wrMkaGs=
+
+Name: assets/www/application/app/images/cryptologo/shark.png
+SHA1-Digest: pah2KvRTfYq3J9ivFZQysirr3p8=
+
+Name: assets/www/application/packages/tracker.js.map
+SHA1-Digest: FUUKrugwobnaCfvZ4vgd3GZprZ4=
+
+Name: assets/www/application/packages/ddp.js
+SHA1-Digest: IJlLYUCJViirfn4iE76pV5Om6OA=
+
+Name: assets/www/application/app/images/cryptologo/eql.png
+SHA1-Digest: NkC4p6s+RSK1y3pMyuyRJlq8IL4=
+
+Name: assets/www/application/index.html
+SHA1-Digest: Rd0Eovyk88BN1GpmhFAh9E2zKBk=
+
+Name: assets/www/application/packages/blaze.js
+SHA1-Digest: si/xzZY9vYRGBsynQIMDgTQmdeQ=
+
+Name: assets/www/application/app/images/cryptologo/mona.png
+SHA1-Digest: lz6thJvOAB2tSrUMwFkBWo5N3hI=
+
+Name: assets/www/application/packages/tracker.js
+SHA1-Digest: 4z0KAMfsVIZCTCwEqHNPDzoIQD0=
+
+Name: assets/www/application/app/images/cryptologo/mshark.png
+SHA1-Digest: pah2KvRTfYq3J9ivFZQysirr3p8=
+
+Name: assets/www/application/app/images/cryptologo/dgb.png
+SHA1-Digest: Jcksgafe3peLCJ5hm5Peoljn9Dw=
+
+Name: assets/www/application/app/images/cryptologo/lime.svg
+SHA1-Digest: CTDEGfSKaK5FmUDdSTq7bibbafA=
+
+Name: assets/www/application/packages/es5-shim.js
+SHA1-Digest: q6Cn+MlRiJxEISwUBehNpkI9PIo=
+
+Name: assets/www/application/packages/jquery.js
+SHA1-Digest: +YJylvJ0prUzOxXWOESQA62z1mk=
+
+Name: assets/www/application/app/images/template/home/home-oval-3.png
+SHA1-Digest: d4viCRJY1LbQBTg0JC4fiPx7h5I=
+
+Name: assets/www/application/app/images/cryptologo/xmy.png
+SHA1-Digest: pftqFI9aWZ64MwEoldvgH0nLzuU=
+
+Name: assets/www/application/app/images/template/transactions/progress
+ 3_icon.svg
+SHA1-Digest: 8WqjYX8ak0CJhBwQtUv+cAh9/6g=
+
+Name: assets/www/application/app/images/pungo_logo_white.svg
+SHA1-Digest: uik27seBtKiAngm/Ipclf3WmDTA=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: tPn6izbTeoGHEGvuZnMY2lYBd2I=
+
+Name: assets/www/application/app/images/cryptologo/arg.png
+SHA1-Digest: VQViE8F3VkwWGpt4FJMcjgkuVX4=
+
+Name: assets/www/application/packages/ddp-common.js
+SHA1-Digest: WmS/uhcMouZhnOVi07flU9KZoOQ=
+
+Name: res/mipmap-xxhdpi-v4/icon.png
+SHA1-Digest: VVR6NE6yEhjkCQxy5tXJGQ6gH+Q=
+
+Name: assets/www/application/app/images/cryptologo/pgt.png
+SHA1-Digest: BdBS62i0RnfPleocF0m/s5nRZZw=
+
+Name: assets/www/application/app/images/template/about/pungo_wallet_ab
+ out_logo.svg
+SHA1-Digest: W93XP0HmjWh4RNvghW5CzPYe/4k=
+
+Name: assets/www/application/packages/random.js.map
+SHA1-Digest: /sySOPNUVApp4goMv00gsnmT8mQ=
+
+Name: assets/www/application/app/images/template/home/home-shape 9.png
+SHA1-Digest: viVLQZ0AXCuFS5n/IeoDfmpF2kI=
+
+Name: assets/www/application/packages/standard-minifier-css.js
+SHA1-Digest: 0rLAnsIlG6kwrGqh3AOQ8s82+ak=
+
+Name: assets/www/application/app/images/template/menu/sidemenu-oval.pn
+ g
+SHA1-Digest: ZjKsNAvAapy0bFBXJiwvU1zjmyU=
+
+Name: assets/www/application/app/images/cryptologo/hodl.png
+SHA1-Digest: NgypHIGKnDI7ApiPXMQrwekdPr8=
+
+Name: assets/www/application/packages/session.js
+SHA1-Digest: lnFaMwlWwOQMZI3UZGgIPTI+v1U=
+
+Name: assets/www/application/app/images/cryptologo/bch.png
+SHA1-Digest: kbaGT7MwiJsK6o5N+zNvemzO/Ng=
+
+Name: assets/www/application/packages/ecmascript-runtime.js
+SHA1-Digest: xc2nBgYHU3BzEXhRWNmSbvXaz6w=
+
+Name: assets/www/application/packages/socket-stream-client.js.map
+SHA1-Digest: 5Hin6xludZLqd+bPSYR4JUb0QPs=
+
+Name: assets/www/application/app/images/cryptologo/xzc.png
+SHA1-Digest: MOS0dZDpe9cIeDntSUF6QfZDznw=
+
+Name: assets/www/application/app/images/template/menu/arrow_back.svg
+SHA1-Digest: H3HPIjCN1lYWz1FFvtnlSSN+5Mw=
+
+Name: assets/www/application/app/images/template/home/home-path-4.png
+SHA1-Digest: fP68BuDc54BkqCf5DgNMH2Op6ik=
+
+Name: res/drawable-mdpi-v4/ic_action_next_item.png
+SHA1-Digest: CrAfs+Fg7jmHKr7yCaTCz4ji01c=
+
+Name: assets/www/application/app/images/template/home/home-shape 2.png
+SHA1-Digest: nkV2okGGlAXrG3IvOvFdxnFIQ/I=
+
+Name: res/mipmap-xxxhdpi-v4/icon.png
+SHA1-Digest: gRZEUCl1jCgxIr2F8Jm12L66QBk=
+
+Name: assets/www/application/app/images/cryptologo/vtc.png
+SHA1-Digest: 7kI6v6cFE96Ph6i/ScPMDVKKcTQ=
+
+Name: assets/www/plugins/cordova-plugin-meteor-webapp/www/webapp_local
+ _server.js
+SHA1-Digest: dMfh2QxFLXZYEF0D6DqHFTFn69M=
+
+Name: assets/www/application/app/images/cryptologo/doge.png
+SHA1-Digest: 9KIlM2beKj8QA3hgfqTzXoUtFTs=
+
+Name: assets/www/application/app/images/cryptologo/game.png
+SHA1-Digest: ptOYvThPNxV/+jptanHyYWS0xg0=
+
+Name: assets/www/application/packages/allow-deny.js
+SHA1-Digest: ol+cHy7qQGrD3Xvsjwd8N3dI8xQ=
+
+Name: assets/www/application/app/images/cryptologo/lime.png
+SHA1-Digest: BdBS62i0RnfPleocF0m/s5nRZZw=
+
+Name: assets/www/application/app/images/cryptologo/kmd_icon.svg
+SHA1-Digest: CTDEGfSKaK5FmUDdSTq7bibbafA=
+
+Name: assets/www/application/app/images/cryptologo/btg.png
+SHA1-Digest: CEWfBHlLyaWHvCC6kJYNpTKa6SU=
+
+Name: assets/www/application/app/images/cryptologo/pizza.png
+SHA1-Digest: iasvDPrACg4ByObRXH1CyYXt8iI=
+
+Name: assets/www/application/app/images/template/home/home-oval-4 2.pn
+ g
+SHA1-Digest: qboeploAcBdwvz1qmmoGdTYUTLk=
+
+Name: assets/www/application/app/images/template/menu/managecoins_icon
+ .svg
+SHA1-Digest: TPPRe4P7w3BhoYGuB2RKISwZN6w=
+
+Name: assets/www/application/packages/promise.js
+SHA1-Digest: V7W1oFSeRCkfFiCL1Jq8zY6/Mvo=
+
+Name: res/drawable-xhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: 2b6IcxBNx2OEDtC1Ufx3Ib8+05U=
+
+Name: assets/www/application/app/images/cryptologo/dex.png
+SHA1-Digest: I+P6O4g8LPC5dzDHKwZqJFY66pM=
+
+Name: assets/www/application/packages/deps.js
+SHA1-Digest: h7Zjxf0HXmxtgFZxWP9OMRThRFw=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: A7BC4etS9bFIzKKjf8xg4jH3oqM=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: 8i0nEE6i0lll1Ph7RPqMlWwBgSs=
+
+Name: assets/www/application/packages/launch-screen.js
+SHA1-Digest: Eq1m8M/6WA4LtdwdHWM8kstCzOo=
+
+Name: res/drawable-xxhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: g35iC3quS3zDniCuHcJ8XZti0Hw=
+
+Name: assets/www/application/app/images/template/menu/trends-combined-
+ shape.png
+SHA1-Digest: 23GOcY6iPj4qNrCV/6xKasIQZZo=
+
+Name: assets/www/application/app/images/template/home/home-oval-4.png
+SHA1-Digest: 91RM5NF7X7AnWFyctHRUveNP4xE=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: /mJ5H2qTR9Bi2LjUspEVgxlBB+g=
+
+Name: assets/www/application/app/images/cryptologo/btc.png
+SHA1-Digest: EXpp1FZzezOv09mAdVWQM1K3sQs=
+
+Name: assets/www/application/packages/callback-hook.js
+SHA1-Digest: SRH1nVDJc57B952cTw9XiZT5TyM=
+
+Name: assets/www/application/packages/fortawesome_fontawesome/upstream
+ /fonts/fontawesome-webfont.woff
+SHA1-Digest: KLeCJAs+dtuCThLAJ1SpcxoWdSc=
+
+Name: assets/www/application/app/images/cryptologo/dnr.png
+SHA1-Digest: 8klXExrkK2rrsYkOVhYwbmF/bpQ=
+
+Name: assets/www/application/packages/url.js
+SHA1-Digest: T3BjA69tufIwR8QZG27/Gi9SDZM=
+
+Name: assets/www/application/app/images/template/transactions/out_icon
+ .svg
+SHA1-Digest: z0PHQE8h76a9L9PMlYDxeE0/kcA=
+
+Name: assets/www/application/packages/deanius_promise.js
+SHA1-Digest: VDKvQlV53U+qE2mgNovBZ7je1B8=
+
+Name: assets/www/application/app/images/cryptologo/bet.png
+SHA1-Digest: fDPSEaQTX+gudOLM7jI6a9vp3Gs=
+
+Name: assets/www/application/packages/templating-runtime.js
+SHA1-Digest: 6KGwdfZF4RTA5KTn7kYpOkcDsZI=
+
+Name: assets/www/application/app/images/cryptologo/coqui.png
+SHA1-Digest: N0yuura7A6q45ffh7ZJtAlrU3ns=
+
+Name: assets/www/application/app/images/cryptologo/crypto.png
+SHA1-Digest: OmEZv732nphIp+8BxcKA8eWAB+8=
+
+Name: assets/www/application/packages/reactive-dict.js.map
+SHA1-Digest: gOhjLtm1YfhTljbIEGJ7oJ1h1oo=
+
+Name: assets/www/application/app/images/template/home/home-shape.png
+SHA1-Digest: 8POMtkiErnoGvvq8TAlnu1Fjowk=
+
+Name: assets/www/application/app/images/template/menu/sidemenu-rectang
+ le-9-copy-3.png
+SHA1-Digest: RyQcIUi1u9vxUv5Fhh4M6GxstFA=
+
+Name: assets/www/application/app/images/template/login/reset-password-
+ path-6.png
+SHA1-Digest: pVl9DzkttoqvPMYcQp2N5hPY8po=
+
+Name: assets/www/application/app/images/template/menu/pungo_logo_white
+ .svg
+SHA1-Digest: uik27seBtKiAngm/Ipclf3WmDTA=
+
+Name: assets/www/application/app/images/agama-logo-side.svg
+SHA1-Digest: 2RReu11IFUOjjFvrREMlBc6PuBY=
+
+Name: assets/www/application/app/images/template/login/circle_right_ar
+ row.svg
+SHA1-Digest: Ram7sXxdTIpERVOmNH/a8sHiiXs=
+
+Name: assets/www/application/app/images/cryptologo/prlpay.png
+SHA1-Digest: /P6lpnouqDqboZZ9uEeED+p55dQ=
+
+Name: assets/www/application/app/images/template/menu/pungo_orange_log
+ o.svg
+SHA1-Digest: lZvvn8xcGuwPs9Sl1+jipQt8HTY=
+
+Name: assets/www/application/app/images/cryptologo/bcbc.png
+SHA1-Digest: BnI1emFqE9rGRpA9myx8afahQJc=
+
+Name: assets/www/application/app/images/template/menu/trends-rectangle
+ -9.png
+SHA1-Digest: Go2ffV30VIrh/PPcM3XyJ1uzwjg=
+
+Name: res/mipmap-hdpi-v4/icon.png
+SHA1-Digest: uBmA1DvOOFXDxX9CCQwxid5jXwA=
+
+Name: assets/www/application/packages/fortawesome_fontawesome/upstream
+ /fonts/fontawesome-webfont.eot
+SHA1-Digest: 2YDCzoc9xDr0YNTVctRBMESZ9AA=
+
+Name: assets/www/application/app/images/template/home/home-div-4.png
+SHA1-Digest: IUx4bXLuI91WUkZcfcBk3MtRHg0=
+
+Name: assets/www/application/app/images/template/home/home-shape 4.png
+SHA1-Digest: ZHS85jt7nD83kFAATTkcrm6VWYk=
+
+Name: assets/www/application/app/images/cryptologo/vote2018.png
+SHA1-Digest: nFcSGpX8BymOVCZ2MwWpMVS4Wlk=
+
+Name: assets/www/application/packages/autoupdate.js.map
+SHA1-Digest: 8/fKNtobq1+TpCzqky4+tMqLqSo=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: V5Vfj2WssSi8B6+IVu332IfXp0I=
+
+Name: res/drawable-hdpi-v4/ic_action_previous_item.png
+SHA1-Digest: 6Tua82UcnA1aKZ7NN1VMwMq1POQ=
+
+Name: assets/www/application/packages/mongo.js.map
+SHA1-Digest: tWUErzETos/CDZUpJTtqGc1Uzjs=
+
+Name: assets/www/application/app/images/cryptologo/erc.png
+SHA1-Digest: /e26WEKjg33Rexv8XJRzUCOG6vk=
+
+Name: assets/www/application/packages/mongo-id.js
+SHA1-Digest: YhVDkE9hOaitQqanOXOHb/tHbqI=
+
+Name: assets/www/application/app/images/cryptologo/mnz.png
+SHA1-Digest: xZz7QoBdxaj1GrZ4Ir0g9363Y7w=
+
+Name: assets/www/application/packages/http.js
+SHA1-Digest: VtnlSSN8fc2QWx007hUgMG58ZBA=
+
+Name: assets/www/application/app/images/template/transactions/progress
+ 1_icon.svg
+SHA1-Digest: ldCfax1+wBPO6FlPMWXoL2LltuI=
+
+Name: assets/www/application/app/images/cryptologo/hodlc.png
+SHA1-Digest: fVJC0vKIIITCWzeLQqQq1Q9OrOM=
+
+Name: assets/www/application/app/images/cryptologo/test2.png
+SHA1-Digest: BdBS62i0RnfPleocF0m/s5nRZZw=
+
+Name: assets/www/application/app/images/cryptologo/pangea.png
+SHA1-Digest: JcU4gTa9gucP+suJp7BliEZ/jGI=
+
+Name: assets/www/application/packages/webapp.js.map
+SHA1-Digest: 8ztsBCHlbcrUwLl+YsHxisDCjMQ=
+
+Name: res/drawable-xhdpi-v4/ic_action_next_item.png
+SHA1-Digest: 0jtO8mB14SV3oGAWX9y/PQNezMY=
+
+Name: assets/www/application/app/images/cryptologo/gbx.png
+SHA1-Digest: Cmin8i3/5+xvFz0hvCN+3Nv6/6g=
+
+Name: assets/www/application/app/images/cryptologo/blk.png
+SHA1-Digest: ilMRmpxZ7W11GERECbzbPfxwjeo=
+
+Name: assets/www/application/app/images/template/home/home-path-5.png
+SHA1-Digest: qncvnJLPTD61bFc4mTpD7G8jgaI=
+
+Name: assets/www/application/app/images/template/login/trends-nub.png
+SHA1-Digest: rpOiHdp6ittGYux7RwDp0d8IaL4=
+
+Name: assets/www/application/packages/fortawesome_fontawesome.js
+SHA1-Digest: 0C5Nkq/V4IQlkyq5+INZAMfaZB4=
+
+Name: assets/www/application/program.json
+SHA1-Digest: 6AwElif+9cOz+vWWomSNo+vNgnI=
+
+Name: assets/www/application/packages/random.js
+SHA1-Digest: 6ofSlgCijQZC2TsNkTi3qJ9noZ8=
+
+Name: assets/www/application/app/images/cryptologo/revs.png
+SHA1-Digest: fl4E5K4rZlPJIB1kRADpnzWnz3M=
+
+Name: assets/www/application/app/images/dropdown_arrow_icon.svg
+SHA1-Digest: MMeorB9dVc5EIDIUll+XUjDhzTc=
+
+Name: assets/www/application/app/images/template/home/home-oval-4 3.pn
+ g
+SHA1-Digest: HEuQ05XoxiGZnHzfUYlakyps9gA=
+
+Name: assets/www/application/packages/shell-server.js
+SHA1-Digest: vJbiPwX6HKn8gZ/0Kua2h8jptuM=
+
+Name: assets/www/application/app/images/cryptologo/nmc.png
+SHA1-Digest: YmE5A5GrTOgD6Q/1tgOcNBz8nZI=
+
+Name: assets/www/application/head.html
+SHA1-Digest: CXJR0/RFcRTlVwtUfT53KxwDROo=
+
+Name: assets/www/application/app/app.js.map
+SHA1-Digest: RUeoJTptTHQWLihaeE5QT0JXSFY=
+
+Name: assets/www/application/app/app.js
+SHA1-Digest: TnyyPApXsGsw+lwsuQgl5Y7Mi5k=
+
+Name: assets/www/application/app/images/cryptologo/lime_icon.svg
+SHA1-Digest: CTDEGfSKaK5FmUDdSTq7bibbafA=
+
+Name: res/mipmap-xhdpi-v4/icon.png
+SHA1-Digest: LrIK9fYw4KvfRXR9qY5jWhuqd6I=
+
+Name: assets/www/application/app/images/template/home/home-combined-sh
+ ape.png
+SHA1-Digest: Bm6TLRys+j3kMXFlr5NDQ/A4rNw=
+
+Name: assets/www/application/app/images/template/transactions/in_icon.
+ svg
+SHA1-Digest: txuD+dr73N0H0oLWsHN3KoX4CPA=
+
+Name: assets/www/application/packages/fortawesome_fontawesome/upstream
+ /fonts/fontawesome-webfont.woff2
+SHA1-Digest: 1vSMun0Hb7by/Wupk6dbncHsvww=
+
+Name: assets/www/application/packages/fortawesome_fontawesome/upstream
+ /fonts/FontAwesome.otf
+SHA1-Digest: BIcHvFKsS2VjqqODv+hmCg3ckIw=
+
+Name: assets/www/application/app/images/cryptologo/qtum.png
+SHA1-Digest: eKaTta/SoGggTgDmbZv5lNYnv58=
+
+Name: assets/www/application/app/images/template/home/home-shape 8.png
+SHA1-Digest: lpbbiWSxPAC1CAWP0LjUaUwBP0w=
+
+Name: assets/www/application/packages/ecmascript.js
+SHA1-Digest: AAuxszPslFCt4ch1uag8DO3FLgA=
+
+Name: assets/www/application/app/images/agama-icon.svg
+SHA1-Digest: idW4KG5iOuZrUcnZtlGHreKg8B8=
+
+Name: assets/www/application/packages/livedata.js
+SHA1-Digest: qswbY4t2iF0GATM0zhXUUaBUfVE=
+
+Name: assets/www/application/app/images/cryptologo/chain.png
+SHA1-Digest: oTzraQpapu/PSv7nx8pRtig6shs=
+
+Name: assets/www/application/app/images/cryptologo/emc2.png
+SHA1-Digest: xqtu7BmQN5XemH/RcBypdrgicgU=
+
+Name: res/drawable-hdpi-v4/ic_action_remove.png
+SHA1-Digest: v5WlxWfVPDUoiy3prPif9E/eRTM=
+
+Name: classes.dex
+SHA1-Digest: xsSCGuqdsRG6RVOlrTQ8bj2qoMg=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA1-Digest: +bdceAw9yQ7uKnkFzDSoze/ZLGc=
+
+Name: assets/www/application/packages/npm-container.js
+SHA1-Digest: xlF6tCYG9FMWdI48XUPl0e7tj00=
+

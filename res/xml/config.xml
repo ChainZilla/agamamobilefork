@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget android-versionCode="4" id="cloud.peer2.pungo_wallet" ios-CFBundleVersion="4" version="0.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="Camera">
+        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="WebAppLocalServer">
+        <param name="android-package" value="com.meteor.webapp.WebAppLocalServer" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="SplashScreen">
+        <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <name>PungoWallet</name>
+    <description>...</description>
+    <author email="..." href="https://pungo.app">...</author>
+    <content src="http://localhost:12824/" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="market:*" />
+    <allow-intent href="itms:*" />
+    <allow-intent href="itms-apps:*" />
+    <allow-navigation href="http://localhost" />
+    <access origin="*://localhost" />
+    <access origin="*://10.0.2.2" />
+    <access origin="https://pungotoken.sale" />
+    <access origin="https://api.peer2.cash" />
+    <access origin="https://fonts.gstatic.com" />
+    <access origin="https://static.apiary.io" />
+    <access origin="https://www.youtube.com" />
+    <access origin="https://youtube.com" />
+    <access origin="https://i.ytimg.com" />
+    <access origin="https://s.ytimg.com" />
+    <access origin="http://electrum.pungo.network" />
+    <access origin="https://electrum.pungo.network" />
+    <access origin="https://pgt.komodo.build" />
+    <access origin="https://kmd.komodo.build" />
+    <access origin="http://94.130.225.86" />
+    <access origin="http://94.130.98.74" />
+    <access origin="http://94.130.225.86:80" />
+    <access origin="http://94.130.98.74:80" />
+    <access origin="https://www.atomicexplorer.com" />
+    <access origin="https://www.kmdexplorer.io" />
+    <access origin="https://kv.kmdexplorer.io" />
+    <access origin="http://explorer.utrum.io" />
+    <access origin="http://chain.blocnation.io" />
+    <access origin="http://explorer.chainmakers.co" />
+    <access origin="http://glx.info" />
+    <access origin="http://explorer.prlpay.com" />
+    <access origin="https://mshark.kmdexplorer.io" />
+    <access origin="https://revs.kmdexplorer.io" />
+    <access origin="https://supernet.kmdexplorer.io" />
+    <access origin="https://dex.kmdexplorer.io" />
+    <access origin="https://pangea.kmdexplorer.io" />
+    <access origin="https://jumblr.kmdexplorer.io" />
+    <access origin="https://bet.kmdexplorer.io" />
+    <access origin="https://crypto.kmdexplorer.io" />
+    <access origin="https://hodl.kmdexplorer.io" />
+    <access origin="http://shark.kmdexplorer.ru" />
+    <access origin="https://bots.kmdexplorer.io" />
+    <access origin="https://mgw.kmdexplorer.io" />
+    <access origin="https://wlc.kmdexplorer.io" />
+    <access origin="http://chips.explorer.supernet.org" />
+    <access origin="https://explorer.coqui.cash" />
+    <access origin="http://178.62.240.191" />
+    <access origin="https://mnz.kmdexplorer.io" />
+    <access origin="https://btch.kmdexplorer.io" />
+    <access origin="https://blockchain.info" />
+    <access origin="https://explorer.myhush.org" />
+    <access origin="http://pizza.komodochainz.info" />
+    <access origin="http://beer.komodochainz.info" />
+    <access origin="https://ninja.kmdexplorer.io" />
+    <access origin="http://88.99.226.252" />
+    <access origin="https://explorer.qtum.org" />
+    <access origin="http://denarius.name" />
+    <access origin="https://live.blockcypher.com" />
+    <access origin="https://bchain.info" />
+    <access origin="https://explorer.viacoin.org" />
+    <access origin="http://explorer.vertcoin.info" />
+    <access origin="https://namecha.in" />
+    <access origin="https://digiexplorer.info" />
+    <access origin="http://ex.crownlab.eu" />
+    <access origin="https://blockexplorer.gamecredits.com" />
+    <access origin="https://btgexplorer.com" />
+    <access origin="https://bitcoincash.blockexplorer.com" />
+    <access origin="http://explorer.zclmine.pro" />
+    <access origin="https://explorer.snowgem.org" />
+    <access origin="https://myriadexplorer.com" />
+    <access origin="http://explorer.bitcore.cc" />
+    <access origin="https://explorer.bitcoinz.site" />
+    <access origin="http://www.fuzzbawls.pw" />
+    <access origin="https://chain.sibcoin.net" />
+    <access origin="https://explorer.zcha.in" />
+    <access origin="https://explorer.coinpayments.net" />
+    <access origin="https://prohashing.com" />
+    <access origin="https://chain.fair.to" />
+    <access origin="https://explorer.feathercoin.com" />
+    <access origin="https://chainz.cryptoid.info" />
+    <access origin="http://explorer.gobyte.network" />
+    <access origin="http://explorer.fujicoin.org" />
+    <access origin="http://zilla.explorer.dexstats.info" />
+    <access origin="https://explorer.zcoin.io" />
+    <icon height="48" src="resources/android_mdpi.icon.png" width="48" />
+    <icon height="72" src="resources/android_hdpi.icon.png" width="72" />
+    <icon height="96" src="resources/android_xhdpi.icon.png" width="96" />
+    <icon height="144" src="resources/android_xxhdpi.icon.png" width="144" />
+    <icon height="192" src="resources/android_xxxhdpi.icon.png" width="192" />
+    <splash density="port-mdpi" height="480" src="resources/android_mdpi_portrait.splash.png" width="320" />
+    <splash density="port-hdpi" height="800" src="resources/android_hdpi_portrait.splash.png" width="480" />
+    <splash density="port-xhdpi" height="1280" src="resources/android_xhdpi_portrait.splash.png" width="720" />
+    <splash height="1600" src="resources/android_xxhdpi_portrait.splash.png" width="960" />
+    <splash height="1920" src="resources/android_xxxhdpi_portrait.splash.png" width="1280" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="webviewbounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="5000" />
+    <preference name="FadeSplashScreenDuration" value="250" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarStyle" value="default" />
+    <preference name="BackgroundColor" value="0xF68D1FFF" />
+</widget>

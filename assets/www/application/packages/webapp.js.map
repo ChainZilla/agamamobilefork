@@ -1,0 +1,2 @@
+)]}'
+{"version":3,"sources":["meteor://💻app/packages/webapp/webapp_cordova.js"],"names":["Meteor","startup","WebAppLocalServer","onError","error","console"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,OAAOC,OAAP,CAAe,YAAM;AACnBC,oBAAkBC,OAAlB,CAA0B,UAACC,KAAD,EAAW;AACnCC,YAAQD,KAAR,CAAcA,KAAd;AACD,GAFD;AAGD,CAJD,E","file":"/packages/webapp.js","sourcesContent":["Meteor.startup(() => {\n  WebAppLocalServer.onError((error) => {\n    console.error(error);\n  });\n});\n"]}

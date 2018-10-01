@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="4" android:versionName="0.1.2" android:hardwareAccelerated="true" package="cloud.peer2.pungo_wallet" platformBuildVersionCode="4" platformBuildVersionName="0.1.2">
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="26"/>
+    <supports-screens android:anyDensity="true" android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:resizeable="true" android:xlargeScreens="true"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application android:label="@string/app_name" android:icon="@mipmap/icon" android:hardwareAccelerated="true" android:supportsRtl="true">
+        <activity android:theme="@android:style/Theme.DeviceDefault.NoActionBar" android:label="@string/activity_name" android:name="cloud.peer2.pungo_wallet.MainActivity" android:launchMode="singleTop" android:configChanges="locale|keyboard|keyboardHidden|orientation|screenSize" android:windowSoftInputMode="adjustResize">
+            <intent-filter android:label="@string/launcher_name">
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <provider android:name="android.support.v4.content.FileProvider" android:exported="false" android:authorities="cloud.peer2.pungo_wallet.provider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/provider_paths"/>
+        </provider>
+    </application>
+</manifest>
